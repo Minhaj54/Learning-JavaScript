@@ -1,5 +1,6 @@
 
 //variables in JS
+let date = "01/10/2024"
 let x;
 x = "Sanju";
 console.log(x) 
